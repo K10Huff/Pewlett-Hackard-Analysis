@@ -8,9 +8,9 @@ The purpose of this analysis was to determine the number of retiring employees p
 Example: Senior Engineer: 25,916 vs Engineer: 9,285 vs Assistant Engineer: 1,090
 -	There are no Managers in the mentorship program.
 -	There are 1,549 employees across 6 titles that are eligible to mentor their coworkers.
--	Only 482 Senior Engineers, 229 Engineers and 37 Assistant Engineers are available to mentor the 36,291 engineering positions that need to be filled. 
-![Retiring per title](link) 
-![Eligible Mentors](link)
+-	Only 482 Senior Engineers, 229 Engineers and 37 Assistant Engineers are available to mentor the 36,291 engineering positions that need to be filled. <br>
+![Retiring per title](https://github.com/K10Huff/Pewlett-Hackard-Analysis/blob/a8e8bda4166057f6f514c4e9622e69455969588a/images/Retiring_per_title.png) 
+![Eligible Mentors](https://github.com/K10Huff/Pewlett-Hackard-Analysis/blob/a8e8bda4166057f6f514c4e9622e69455969588a/images/Mentors_per_title.png)
 
 # Summary
 -	There are 41,380 employees retiring whose roles needs to be filled and only 1,549 employees who are eligible for the mentorship program. 
